@@ -2,6 +2,8 @@
 
 This is made with reactJS,Tailwind css and react spring
 
+[See it live!] (https://vinny0712.github.io/react-portfolio/)
+
 ##To run app in localhost
 ### `yarn start`
 
