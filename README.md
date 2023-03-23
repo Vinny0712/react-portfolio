@@ -18,8 +18,8 @@ In the project directory, you can run:
 
 
 ### `git add .`
-###`git commit -m "update" `
-###`git push`
+### `git commit -m "update" `
+### `git push`
 
 
 ### `yarn run build`
