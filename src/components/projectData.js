@@ -12,7 +12,7 @@ export const projects = [
         url: 'images/portfolio.gif',
       },
     ],
-    link:""
+    link:"https://github.com/Vinny0712/react-portfolio/tree/main"
     
   },
   {
