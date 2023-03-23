@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Welcome to my portfolio web!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is made with reactJS,Tailwind css and react spring
 
 ##To run app in localhost
 ### `yarn start`
@@ -17,9 +17,9 @@ In the project directory, you can run:
 
 
 
-### `git add .
-git commit -m "update"
-git push`
+### `git add .'
+###git commit -m "update"
+###git push`
 
 Builds app for production.\
 
